@@ -1,0 +1,1 @@
+﻿MusicCollection mojaKolekcjaPlyt = new MusicCollection();
